@@ -54,9 +54,3 @@ This PR Review Agent automates the process of reviewing GitHub pull requests usi
 
 ## License
 MIT
-
-## Maintainers
-- TIGER-AI-Lab
-
----
-For questions or support, open an issue or contact the maintainers.
